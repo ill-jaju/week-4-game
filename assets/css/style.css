@@ -1,13 +1,14 @@
+.jumbotron {
+	background-color: black;
+}
+
 .container	{
-    display: flex
+    background-color: transparent;
+    overflow: none;
 }
 
 body {
 	background-color: black;
 	color: grey;
-}
-
-.panel {
-	background-color: transparent;
-	border: none;
+	padding: 125px;
 }
