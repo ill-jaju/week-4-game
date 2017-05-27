@@ -106,10 +106,9 @@ crystalNumbers();
 		currentScore = 0;
 		$("#score").text(" " + currentScore);
 
-//debug
+//debug . displays new numbersArray + number matchME after win/loss
 		console.log(numbersArray)
 		console.log(matchMe)
 	}
-
 
 });

@@ -1,0 +1,13 @@
+.container	{
+    display: flex
+}
+
+body {
+	background-color: black;
+	color: grey;
+}
+
+.panel {
+	background-color: transparent;
+	border: none;
+}
